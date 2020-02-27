@@ -1,0 +1,7 @@
+D:\student\Desktop\Slime\Slime\bin\Debug\Slime.exe.config
+D:\student\Desktop\Slime\Slime\bin\Debug\Slime.exe
+D:\student\Desktop\Slime\Slime\bin\Debug\Slime.pdb
+D:\student\Desktop\Slime\Slime\obj\Debug\Slime.csprojAssemblyReference.cache
+D:\student\Desktop\Slime\Slime\obj\Debug\Slime.csproj.CoreCompileInputs.cache
+D:\student\Desktop\Slime\Slime\obj\Debug\Slime.exe
+D:\student\Desktop\Slime\Slime\obj\Debug\Slime.pdb

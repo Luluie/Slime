@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slime", "Slime\Slime.csproj", "{098BFDA3-2F63-4E79-B4AF-B41986A63859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{098BFDA3-2F63-4E79-B4AF-B41986A63859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098BFDA3-2F63-4E79-B4AF-B41986A63859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098BFDA3-2F63-4E79-B4AF-B41986A63859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098BFDA3-2F63-4E79-B4AF-B41986A63859}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89F86A40-36F6-4994-ADE4-0524B2FEEEF2}
+	EndGlobalSection
+EndGlobal
